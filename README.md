@@ -45,6 +45,8 @@
 [INSIDE]:https://github.com/b00mmer/Lab5/blob/main/Ping-B.JPG "INSIDE"
 
 
+  ## Часть 4: Настройка безопасности портов и отключение неиспользуемых портов
+
 ![alt-текст][HTTP]
 
 [HTTP]:https://github.com/b00mmer/Lab5/blob/main/PC-C-web.JPG "HTTP"
