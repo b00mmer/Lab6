@@ -18,7 +18,7 @@
 
 3. [Сетевые параметры маршрутизатора R1](https://github.com/b00mmer/Lab6/blob/main/R1_running-config_4.txt)
 4. [Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_4.txt)
-5. [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab5/blob/main/R3_running-config_3.txt)
+5. [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab6/blob/main/S2_running-config_4.txt)
 6.  [Сетевые параметры PC-A](https://github.com/b00mmer/Lab5/blob/main/PC-B.JPG)
 7.  [Сетевые параметры PC-B](https://github.com/b00mmer/Lab5/blob/main/PC-C.JPG)
  
