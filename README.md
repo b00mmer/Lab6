@@ -56,7 +56,7 @@ Ping с PC-A на PC-B
   
   ## Часть 3 Защита от STP-атак
 
-[Файл образа части 3](https://github.com/b00mmer/Lab6/blob/main/Lab6_2.pkt)
+[Файл образа части 3](https://github.com/b00mmer/Lab6/blob/main/Lab6_3.pkt)
 
 
   ## Часть 4: Настройка безопасности портов и отключение неиспользуемых портов
