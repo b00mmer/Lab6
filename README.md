@@ -67,4 +67,4 @@ Ping с PC-A на PC-B
  
  [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab6/blob/main/S2_running-config_4.txt)
  
- 
+Шаг3 Проверка безопасности портов 
