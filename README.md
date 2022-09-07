@@ -46,7 +46,9 @@ Ping с PC-A на PC-B
 
  ## Часть 2 Настройка безопасных магистральных портов
 
- [Сетевые параметры маршрутизатора R3](https://github.com/b00mmer/Lab5/blob/main/R3_running-config.4.txt)
+ [Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab5/blob/main/R3_running-config.4.txt)
+ 
+ [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab5/blob/main/R3_running-config.4.txt)
   
   ## Часть 3 Защита от STP-атак
 
