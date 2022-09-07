@@ -39,7 +39,7 @@ Ping с PC-A на PC-B
 
 ![alt-текст][PING_AB]
 
-[PING_AB]:https://github.com/b00mmer/Lab6/blob/main/Ping_PC_A.JPG "Ping_AB"
+[PING_AB]:https://github.com/b00mmer/Lab6/blob/main/Ping_PC_A_B.JPG "Ping_AB"
 
 
 
