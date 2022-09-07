@@ -63,7 +63,7 @@ Ping с PC-A на PC-B
 
 [Файл образа части 4](https://github.com/b00mmer/Lab6/blob/main/Lab6_2.pkt)
 
-[Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_p2.txt)
+[Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_4.txt)
  
  [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab6/blob/main/S2_running-config_p2.txt)
  
