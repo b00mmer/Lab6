@@ -35,6 +35,12 @@ Ping с PC-B на R1
 
 [PING_B]:https://github.com/b00mmer/Lab6/blob/main/Ping_PC_A.JPG "Ping_B"
 
+Ping с PC-A на PC-B
+
+![alt-текст][PING_AB]
+
+[PING_AB]:https://github.com/b00mmer/Lab6/blob/main/Ping_PC_A.JPG "Ping_AB"
+
 
 
 
