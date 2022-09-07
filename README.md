@@ -20,7 +20,17 @@
 4. [Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_4.txt)
 5. [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab6/blob/main/S2_running-config_4.txt)
 
- 
+
+Проверка связи:
+
+Ping с PC-A на R1
+
+![alt-текст][PING_A]
+
+[PING_A]:https://github.com/b00mmer/Lab6/blob/main/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%BE%D0%B2.JPG "Ping_A"
+
+
+
 
  ## Часть 2 Настройка безопасных магистральных портов
 
