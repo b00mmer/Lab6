@@ -61,7 +61,7 @@ Ping с PC-A на PC-B
 
   ## Часть 4: Настройка безопасности портов и отключение неиспользуемых портов
 
-[Файл образа части 4](https://github.com/b00mmer/Lab6/blob/main/Lab6_2.pkt)
+[Файл образа части 4](https://github.com/b00mmer/Lab6/blob/main/Lab6_4.pkt)
 
 [Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_4.txt)
  
