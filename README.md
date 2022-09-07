@@ -74,10 +74,17 @@ Ping с PC-A на PC-B
 
 [S43]:https://github.com/b00mmer/Lab6/blob/main/St4_3.JPG "S4_3"
 
-После смены MAC адреса на R1 G 0/0/1
+Ping PC-A
 
 ![alt-текст][S43b]
 
 [S43b]:https://github.com/b00mmer/Lab6/blob/main/St4_3b.JPG "S4_3b"
+
+
+Статус порта после смены MAC адреса на R1 G 0/0/1
+
+![alt-текст][S43e]
+
+[S43e]:https://github.com/b00mmer/Lab6/blob/main/St4_3e.JPG "S4_3e"
 
 
