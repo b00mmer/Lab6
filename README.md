@@ -61,44 +61,10 @@ Ping с PC-A на PC-B
 
   ## Часть 4: Настройка безопасности портов и отключение неиспользуемых портов
 
-![alt-текст][HTTP]
+[Файл образа части 4](https://github.com/b00mmer/Lab6/blob/main/Lab6_2.pkt)
 
-[HTTP]:https://github.com/b00mmer/Lab5/blob/main/PC-C-web.JPG "HTTP"
-
-
-
-![alt-текст][HTTPS]
-
-[HTTPS]:https://github.com/b00mmer/Lab5/blob/main/PC-C-webs.JPG "HTTPS"
-
-
-
-
-Проверка с PC-C
-
-![alt-текст][CONFROOM]
-
-[CONFROOM]:https://github.com/b00mmer/Lab5/blob/main/Ping-C.JPG "CONFROOM"
-
-
-Протокол ICMP не разрешен на файерволе.
-
-2. Самостоятельная проверка зоны
-
-
-![alt-текст][SELF1]
-
-[SELF1]:https://github.com/b00mmer/Lab5/blob/main/Ping-A-R.JPG "SELF1"
-
-
-![alt-текст][SELF2]
-
-[SELF2]:https://github.com/b00mmer/Lab5/blob/main/Ping-C-R.JPG "SELF2"
-
-
-## Приложение
-
-![alt-текст][Appen]
-
-[Appen]:https://github.com/b00mmer/Lab5/blob/main/Appen.JPG "Appen"
-
+[Сетевые параметры маршрутизатора S1](https://github.com/b00mmer/Lab6/blob/main/S1_running-config_p2.txt)
+ 
+ [Сетевые параметры маршрутизатора S2](https://github.com/b00mmer/Lab6/blob/main/S2_running-config_p2.txt)
+ 
+ 
