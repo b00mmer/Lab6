@@ -56,21 +56,7 @@ Ping с PC-A на PC-B
   
   ## Часть 3 Защита от STP-атак
 
-1. Трафик, исходящий из Интернета  
-
-Проверка с SERVER 0
-
-![alt-текст][Internet]
-
-[Internet]:https://github.com/b00mmer/Lab5/blob/main/Ping-A.JPG "Internet"
-
-Протокол ICMP не разрешен на файерволе.
-
-Проверка с PC-B
-
-![alt-текст][INSIDE]
-
-[INSIDE]:https://github.com/b00mmer/Lab5/blob/main/Ping-B.JPG "INSIDE"
+[Файл образа части 3](https://github.com/b00mmer/Lab6/blob/main/Lab6_2.pkt)
 
 
   ## Часть 4: Настройка безопасности портов и отключение неиспользуемых портов
