@@ -72,4 +72,4 @@ Ping с PC-A на PC-B
 
 ![alt-текст][S43]
 
-[S43]:https://github.com/b00mmer/Lab6/blob/main/Ping_PC_A.JPG "S4_3"
+[S43]:https://github.com/b00mmer/Lab6/blob/main/St4_3.JPG "S4_3"
